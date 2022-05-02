@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dexterngdev
-- 👀 I’m interested in web developement
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
